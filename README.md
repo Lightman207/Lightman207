@@ -1,4 +1,3 @@
-## Backend Python, Node.js
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Lightman207&label=Profile%20views&color=0e75b6&style=flat" alt="Lightman207"/></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lightman207&langs_count=10)](https://github.com/Lightman207/Lightman207)
