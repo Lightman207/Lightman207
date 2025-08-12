@@ -5,15 +5,11 @@ My name is Daniil. I like coding. I started programming at the age of 13, at tha
 
 ## 🧪 Статистика (опционально)
 
-> Добавь эти строки, заменив `Lightman207` на свой ник:
-
-```markdown
-<!-- GitHub Readme Stats (необходим README-репо public) -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=<YOUR_USER>&show_icons=true&theme=radical" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lightman207&show_icons=true&theme=radical" alt="github stats" />
 </p>
 
 <!-- Streak -->
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<YOUR_USER>&theme=radical" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lightman207&theme=radical" alt="streak stats" />
 </p>
